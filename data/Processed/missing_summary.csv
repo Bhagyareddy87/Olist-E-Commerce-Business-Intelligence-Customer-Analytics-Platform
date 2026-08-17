@@ -1,0 +1,14 @@
+table,column,dtype,missing,missing_pct,unique
+olist_orders_dataset,order_approved_at,str,160,0.1608994278014099,90733
+olist_orders_dataset,order_delivered_carrier_date,str,1783,1.7930229985619612,81018
+olist_orders_dataset,order_delivered_customer_date,str,2965,2.981667521444877,95664
+olist_order_reviews_dataset,review_comment_title,str,87656,88.34153027493349,4527
+olist_order_reviews_dataset,review_comment_message,str,58247,58.70253164556962,36159
+olist_products_dataset,product_category_name,str,610,1.8512336499650999,73
+olist_products_dataset,product_name_lenght,float64,610,1.8512336499650999,66
+olist_products_dataset,product_description_lenght,float64,610,1.8512336499650999,2960
+olist_products_dataset,product_photos_qty,float64,610,1.8512336499650999,19
+olist_products_dataset,product_weight_g,float64,2,0.006069618524475737,2204
+olist_products_dataset,product_length_cm,float64,2,0.006069618524475737,99
+olist_products_dataset,product_height_cm,float64,2,0.006069618524475737,102
+olist_products_dataset,product_width_cm,float64,2,0.006069618524475737,95
